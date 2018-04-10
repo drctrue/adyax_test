@@ -12,6 +12,6 @@
 </head>
 <body>
 <div id="header">
-    <a href="<?php echo HTTP_SERVER; ?>/files">Books</a>
+    <a href="<?php echo HTTP_SERVER; ?>files">Books</a>
 </div>
 <div id="content">
